@@ -1,0 +1,1 @@
+export const defaultScreen = () => <div></div>;
